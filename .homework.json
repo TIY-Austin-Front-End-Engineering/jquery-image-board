@@ -1,0 +1,12 @@
+{
+    "name": "backbone-image-board",
+    "version": "0.0.1",
+    "title": "Backbone Image Board",
+    "description": "Create an image board that saves submissions to tiny pizza server.",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript"
+    ]
+}
