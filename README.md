@@ -1,4 +1,4 @@
-# jQuery Image Board
+# Backbone Image Board
 
 ## Description
 Create an image board that saves submissions to tiny pizza server.
@@ -45,3 +45,9 @@ Using the tools you've learned in class, create a responsive image board that al
 
 ### Add Image Form
 ![Add](add.png)
+
+           
+## Notes
+
+Check out [ionicons](http://ionicons.com/) for the icons used.
+
