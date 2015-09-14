@@ -1,4 +1,4 @@
-# Backbone Image Board
+# jQuery Image Board
 
 ## Description
 Create an image board that saves submissions to tiny pizza server.

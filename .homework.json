@@ -1,7 +1,7 @@
 {
-    "name": "backbone-image-board",
+    "name": "jquery-image-board",
     "version": "0.0.1",
-    "title": "Backbone Image Board",
+    "title": "jQuery Image Board",
     "description": "Create an image board that saves submissions to tiny pizza server.",
     "difficultyModes": [
         "Normal"
