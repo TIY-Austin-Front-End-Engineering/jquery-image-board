@@ -4,7 +4,8 @@
     "title": "jQuery Image Board",
     "description": "Create an image board that saves submissions to tiny pizza server.",
     "difficultyModes": [
-        "Normal"
+        "Normal",
+        "Hard"
     ],
     "keywords": [
         "JavaScript"

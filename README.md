@@ -46,6 +46,9 @@ Using the tools you've learned in class, create a responsive image board that al
 ### Add Image Form
 ![Add](add.png)
 
+## Hard Mode
+Allow users to register for an account using a username and password. Force them to log in to their account (validating that they enter the correct username and password) before they are able to post images to their image board. Each user should only see images that they posted.
+
            
 ## Notes
 
