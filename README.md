@@ -10,30 +10,28 @@ Create an image board that saves submissions to tiny pizza server.
 
 After completing this assignment, you should…
 
-* Understand how to use Backbone models, collections and persistence
+* Understand how to use AJAX to save data to a server
 
 
 ### Performance Objectives
 
 After completing this assignment, you be able to effectively use
 
-* Backbone Models and collections
+* $.get / $.post
 * Event listeners
-* Model validation
+* Data Validation
 
 ## Details
 
 ### Deliverables
 
 * A repo containing at least:
-  * `dist/index.html`
-  * `dist/scripts/main.js`
-  * `dist/scripts/models/image-model.js`
-  * `dist/scripts/collections/image-collection.js`
+  * `index.html`
+  * `scripts/main.js`
 
 ### Requirements
 
-* No JSHint warnings or errors
+* No ESLint warnings or errors
 
 
 ## Normal Mode
@@ -47,13 +45,3 @@ Using the tools you've learned in class, create a responsive image board that al
 
 ### Add Image Form
 ![Add](add.png)
-
-           
-## Notes
-
-Notes go here...
-
-## Additional Resources
-
-* Read [Backbone Models](http://backbonejs.org/#Model)
-* Read [Backbone Collections](http://backbonejs.org/#Collection)
